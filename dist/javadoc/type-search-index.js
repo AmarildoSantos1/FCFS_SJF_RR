@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"escalonamento","l":"Arquivo"},{"p":"escalonamento","l":"Calculadora"},{"p":"escalonamento","l":"Escalonamento"},{"p":"escalonamento","l":"Processo"},{"p":"escalonamento","l":"RoundRobin"},{"p":"escalonamento","l":"RoundRobinComPreempcao"},{"p":"escalonamento","l":"SJF"}];updateSearchResults();
