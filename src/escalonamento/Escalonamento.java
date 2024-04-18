@@ -42,7 +42,7 @@ public class Escalonamento {
         executarAlgoritmoRoundRobin(listaDeProcessos, tamanhoDaFatiaDeTempo);
 
         // Execução do Round Robin com preempção
-        executarAlgoritmoRoundRobinComPreempcao(listaDeProcessos, tamanhoDaFatiaDeTempo);
+        //executarAlgoritmoRoundRobinComPreempcao(listaDeProcessos, tamanhoDaFatiaDeTempo);
     }
 
     private static void executarAlgoritmoFCFS(ArrayList<Processo> listaDeProcessos) {

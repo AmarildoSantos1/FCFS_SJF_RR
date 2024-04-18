@@ -38,7 +38,7 @@ public class RoundRobin {
             if (temProcessoNaFila()) {
                 executaProcesso();
                 graficoSaida.add("T");
-                graficoSaida.add("C");
+                graficoSaida.add("P");
             } else {
                 graficoSaida.add("-");
             }
